@@ -1,0 +1,76 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+dist/**
+dist/**.*
+node_modules/**
+node_modules/**.*
+*/components/*
+ 
+# Sass #
+*.css.map
+.sass-cache/
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+ 
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+ 
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+Desktop.ini
+ 
+# WebStorm #
+/.idea/
+/*/idea/
+/*/*/.idea/
+.idea/
+.idea/*
+\.idea/
+\.idea/*
+ 
+# Eclipse #
+###########
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+target/**/*
+target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+ 
+# CDT-specific #
+################
+.cproject
